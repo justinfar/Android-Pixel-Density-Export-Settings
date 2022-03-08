@@ -1,12 +1,17 @@
+![image](https://user-images.githubusercontent.com/26432097/157234337-774e1a0c-dfc9-4a63-9a17-4d57c979fcee.png)
+
 # Android-Pixel-Density-Export-Settings
 
-This is a utility plugin that applies the export settings for different pixel density sizes on Android. You can read the documentation in the link below around why density independent pixels are used to support multiple devices. 
+This is a utility plugin that applies the export settings for different pixel density sizes on Android. 
 
+[Install on Figma](https://www.figma.com/community/plugin/848942545795372443/Android-Pixel-Density-Export-Settings)
+
+You can read the documentation in the link below around why density independent pixels are used to support multiple devices. 
 
 https://developer.android.com/training/multiscreen/screendensities
 
 
-How to Use 
+## How to Use 
 
 1. Select the frame containing the asset you'd like to export
 2. Press `command + /` or search for `Android Pixel Density Export Settings` in the Plugins menu
