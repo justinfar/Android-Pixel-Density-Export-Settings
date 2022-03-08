@@ -1,0 +1,14 @@
+{
+    "name": "Android-Pixel-Density-Export-Settings",
+    "version": "1.0.0",
+    "description": "A utility plugin that applies the export settings for different pixel density sizes on Android.",
+    "main": "code.js",
+    "scripts": {
+        "build": "tsc -p tsconfig.json"
+    },
+    "author": "Justin Farrugia",
+    "license": "",
+    "dependencies": {
+        "@figma/plugin-typings": "^1.15.0"
+    }
+}
